@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://pierre-ol.github.io/404-NotFound/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Pierre-OL/404-NotFound">
       Solution
     </a>
     <span> | </span>
@@ -38,20 +38,30 @@
 
 ![screenshot](img/404-NotFound.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<!--Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 - What was your experience?
 - What have you learned/improved?
-- Your wisdom? :)
+- Your wisdom? :)-->
+
+See my project on [Github/404-NotFound](https://github.com/Pierre-OL/404-NotFound)
+As a practitioner I managed to learn more about css in units, variables, responsive design and upload my demo to the web
+
+**Additional tip:**
+
+- Use github pages to upload my demo
+- It is better to use the BEM method
+- Deployed by Github
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+This project does not include frames as it was built only with:
+
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Features
 
@@ -64,11 +74,11 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
+<!-- [Node.js](https://nodejs.org/)-->
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [404-NotFound](https://pierre-ol.github.io/404-NotFound/)
+- GitHub [Pierre-OL](https://github.com/Pierre-OL)
+- Twitter [lepierre19](https://twitter.com/lepierre19)
